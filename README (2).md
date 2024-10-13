@@ -1,5 +1,5 @@
 
-# Music Recommendation System
+# Music Recommendation System using Spotify API
 
 This project demonstrates a hybrid music recommendation system built using Spotify's API. Given an input song, it returns a list of recommended songs based on several factors like popularity and other features.
 
