@@ -3,6 +3,16 @@
 
 This project demonstrates a hybrid music recommendation system built using Spotify's API. Given an input song, it returns a list of recommended songs based on several factors like popularity and other features.
 
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [How to Run](#how-to-run)
+- [Example Usage](#example-usage)
+- [Dependencies](#dependencies)
+- [Output](#output)
+- [Contributing](#contributing)
+
 ## Features
 
 - **API Authentication**: Uses Spotify's Client ID and Client Secret to authenticate and retrieve an access token.
