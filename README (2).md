@@ -51,6 +51,7 @@ Hybrid recommended songs for 'I'm Good (Blue)':
 0                          BOTH                      Tiësto, 21 Savage, BIA   
 ```
 
-## License
+## Contributing 
 
-This project is licensed under the MIT License.
+Feel free to submit issues or pull requests.Any contributions are welcome!
+
